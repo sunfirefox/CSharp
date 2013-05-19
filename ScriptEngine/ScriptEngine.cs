@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System;
 using System.Collections.Generic;
 using System.Reflection;
@@ -7,6 +8,8 @@ using System.Threading;
 
 namespace Console
 {
+=======
+>>>>>>> 7d93810b74e53ea41789f1d5c3eab971d305f5db
     /// <summary>
     /// Represents a Windows Script Engine such as JScript, VBScript, etc.
     /// </summary>
@@ -545,5 +548,9 @@ namespace Console
                 _dispatch = null;
             }
         }
+<<<<<<< HEAD
     }
 }
+=======
+    }
+>>>>>>> 7d93810b74e53ea41789f1d5c3eab971d305f5db
